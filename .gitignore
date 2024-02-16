@@ -1,0 +1,26 @@
+.vscode/
+__pycache__/
+local/
+out/
+_ARCHIVE/
+_LATEST_PAPERS/
+dolfinx/
+jax-fem/
+_LECTURES & RECORDINGS/
+_LITERATURE/
+_PRESENTATIONS/
+_REPOS
+THESIS VAULT/
+topo-fenics/
+WORK/
+.DS_Store
+Icon
+*.code-workspace
+*.ipynb_checkpoints*
+*Announcement.ipynb
+*.png
+*.jpeg
+*.jpg
+*.bmp
+*.vtk
+*.pyc
