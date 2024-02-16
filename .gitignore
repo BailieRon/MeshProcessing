@@ -1,0 +1,15 @@
+.vscode/
+__pycache__/
+local/
+out/
+.DS_Store
+Icon
+*.code-workspace
+*.ipynb_checkpoints*
+*Announcement.ipynb
+*.png
+*.jpeg
+*.jpg
+*.bmp
+*.vtk
+*.pyc
