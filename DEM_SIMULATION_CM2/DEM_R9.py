@@ -348,5 +348,5 @@ ani = animation.FuncAnimation(
 )
 
 writergif = animation.PillowWriter(fps=30)
-ani.save("./out/Spheres_R7.gif", writer=writergif)
+ani.save("Spheres_R9.gif", writer=writergif)
 plt.show()
